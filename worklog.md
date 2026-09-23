@@ -12,7 +12,11 @@
   - `worklog.md` (Dated progress log)
   - `.env.example` (API keys template)
 
+- Linked remote `origin` (`https://github.com/sammoww/llm-gateway.git`) and pushed `main` branch with upstream tracking.
+
 ### What worked
 - Initial scaffolding and standards-compliant documentation created.
 - Complete architecture specification authored and committed.
+- Repository pushed successfully to GitHub.
+
 
